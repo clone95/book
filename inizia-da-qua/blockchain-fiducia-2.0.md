@@ -109,31 +109,19 @@ Le uniche due però che hanno dimostrato di essere robuste nel tempo sono Bitcoi
 
 Bitcoin è una rete che permette lo scambio di denaro in modo anonimo e sicuro, mentre Ethereum è pensato per poter eseguire interi programmi sulla Blockchain, permettendo applicazioni molto più complesse del semplice scambio di denaro!
 
-Per approfondire Bitcoin ed Ethereum vedi le sezioni dedicate:
+Oltre a Bitcoin ed Ethereum esistono però tantissime altre Blockchain, e anche se molte hanno fallito nel tentativo di diventare ampiamente utilizzate, sono comunque degne di nota.&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Inoltre esistono migliaia di progetti crypto che non sono una Blockchain, ma vengono costruiti sulle Blockchain.&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Tutte le "altre crypto" oltre a Bitcoin ed Ethereum sono dette **Altcoins** ("Alternative Coins").
 
 ### Cos'è un wallet?
 
-Un crypto wallet  è un **portafoglio elettronico** dedicato esclusivamente alla gestione delle criptovalute. Il più famoso è [**MetaMask**](https://metamask.io/).
+Un crypto wallet ("portafoglio") è un **portafoglio elettronico** dedicato esclusivamente alla gestione delle criptovalute. Il più famoso è [**MetaMask**](https://metamask.io/).
 
 Ogni wallet per criptovalute è dotato di un **indirizzo unico**, composto da lettere e numeri, che consente di ricevere denaro esattamente come il tradizionale IBAN.
 
-L’utilizzo di una qualsiasi criptovaluta richiede un portafoglio che consenta di amministrarle con la massima sicurezza.&#x20;
+Quando si apre **un conto** presso un **exchange centralizzato**, come Binance o Coinbase, **NON** si sta aprendo un wallet, ma **dietro le quinte** è quello che fanno loro per poter interagire con le varie Blockchain.&#x20;
 
-Quando si apre un conto presso un exchange centralizzato, come Binance o Coinbase, NON si sta aprendo un wallet, ma dietro le quinte è quello che fanno loro per poter interagire con le varie Blockchain.&#x20;
-
-Il problema è che in questo caso le chiavi del wallet sono tenute dall'exchange per voi (con tutti i rischi che questo comporta).
-
-Per approfondire i wallet e creare il tuo primo wallet MetaMask:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Il problema è che in questo caso **le chiavi** del wallet **sono tenute dall'exchange** per voi (con tutti i rischi che questo comporta).
 
