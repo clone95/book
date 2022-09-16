@@ -13,6 +13,7 @@
 * [📖 Introduzione a Bitcoin](bitcoin/introduzione-a-bitcoin.md)
 * [🤷 Perchè Bitcoin ha valore?](bitcoin/perche-bitcoin-ha-valore.md)
 * [🌎 Adozione nel mondo](bitcoin/adozione-nel-mondo.md)
+* [⚡ Lightning Network](bitcoin/lightning-network.md)
 * [⚠ Critiche](bitcoin/critiche.md)
 
 ## 🖥 Ethereum
@@ -21,6 +22,14 @@
 * [🤝 Smart Contracts](ethereum/smart-contracts.md)
 * [🛣 Sviluppo e Roadmap](ethereum/sviluppo-e-roadmap.md)
 * [🏎 Layers 2](ethereum/layers-2.md)
+
+## 👾 Altcoins
+
+* [🗺 Il Panorama Altcoin](altcoins/il-panorama-altcoin.md)
+* [Layer 0](altcoins/layer-0.md)
+* [Layer 1 alternativi](altcoins/layer-1-alternativi.md)
+* [Stablecoins](altcoins/stablecoins.md)
+* [Categorie di Token](altcoins/categorie-di-token.md)
 
 ## 💰 Finanza Decentralizzata
 
