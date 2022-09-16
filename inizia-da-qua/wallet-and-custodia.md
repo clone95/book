@@ -8,7 +8,13 @@ Utilizza una connessione a Internet per accedere alla rete blockchain.
 
 I wallet contengono una chiave pubblica (l'indirizzo del wallet) e le chiavi private necessarie per firmare le transazioni. Chiunque conosca la chiave privata può controllare le monete associate a quell'indirizzo pubblico.
 
+{% hint style="info" %}
 Quando si possiedono criptovalute in un wallet (non-custodial, ovvero non gestito da terze parti), ciò che si possiede realmente è una chiave privata. Le vostre monete sono associate a un insieme di "chiavi pubbliche/private". La chiave privata rappresenta il diritto di poter spendere le monete che sono associate all’indirizzo pubblico del wallet.
+{% endhint %}
+
+{% hint style="danger" %}
+MAI DIRE A NESSUNO LA TUA CHIAVE PRIVATA, PER NESSUN MOTIVO!
+{% endhint %}
 
 ### A cosa servono? <a href="#a-cosa-servono" id="a-cosa-servono"></a>
 
