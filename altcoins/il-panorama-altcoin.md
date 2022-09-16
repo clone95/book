@@ -6,3 +6,5 @@
 Inizialmente le **Altcoins** miravano a migliorare aspetti di **Bitcoin** come la velocità delle transazioni o l'efficienza energetica, le più recenti hanno **molteplici** e diversi scopi, a seconda degli obiettivi degli **sviluppatori**.
 
 Le prime **Altcoins** sono nate nel **2011** e oggi ne esistono decine di migliaia sul **mercato**.
+
+Esistono davvero tante **categorie** di Altcoin, e nelle prossime sezioni esploriamo le **più importanti**.&#x20;
