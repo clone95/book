@@ -9,6 +9,7 @@
 * [🗂 Wallet & Custodia](inizia-da-qua/wallet-and-custodia.md)
 * [🏴☠ Rischi delle Crypto](inizia-da-qua/rischi-delle-crypto.md)
 * [☢ Riconoscere gli Scam](inizia-da-qua/riconoscere-gli-scam.md)
+* [🔖 Glossario](inizia-da-qua/glossario.md)
 
 ## 🪙 Bitcoin
 
@@ -30,7 +31,7 @@
 ## 👾 Altcoins
 
 * [🗺 Il Panorama Altcoin](altcoins/il-panorama-altcoin.md)
-* [🥭 Blockchain alternative](altcoins/blockchain-alternative.md)
+* [🥭 Blockchain alternative](altcoins/layer-1-alternativi.md)
 * [🛠 Infrastruttura](altcoins/infrastruttura.md)
 * [💵 Stablecoins](altcoins/stablecoins.md)
 * [🐶 Memecoins](altcoins/memecoins.md)
