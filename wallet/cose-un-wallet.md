@@ -1,2 +1,0 @@
-# Cos'è un wallet
-

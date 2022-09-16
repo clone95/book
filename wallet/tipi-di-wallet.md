@@ -1,2 +1,0 @@
-# Tipi di wallet
-

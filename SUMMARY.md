@@ -6,6 +6,7 @@
 
 * [🚩 Pronto a partire?](inizia-da-qua/pronto-a-partire.md)
 * [⛓ Blockchain: Fiducia 2.0](inizia-da-qua/blockchain-fiducia-2.0.md)
+* [🗂 Wallet & Custodia](inizia-da-qua/wallet-and-custodia.md)
 * [🏴☠ Rischi delle Crypto](inizia-da-qua/rischi-delle-crypto.md)
 * [☢ Riconoscere gli Scam](inizia-da-qua/riconoscere-gli-scam.md)
 
@@ -21,6 +22,7 @@
 
 * [📖 Introduzione a Ethereum](ethereum/introduzione-a-ethereum.md)
 * [🤝 Smart Contracts](ethereum/smart-contracts.md)
+* [📱 dApps](ethereum/dapps.md)
 * [🛣 Sviluppo e Roadmap](ethereum/sviluppo-e-roadmap.md)
 * [🏎 Layers 2](ethereum/layers-2.md)
 * [⚠ Critiche](ethereum/critiche.md)
@@ -28,10 +30,13 @@
 ## 👾 Altcoins
 
 * [🗺 Il Panorama Altcoin](altcoins/il-panorama-altcoin.md)
-* [Layer 0](altcoins/layer-0.md)
-* [Layer 1 alternativi](altcoins/layer-1-alternativi.md)
-* [Stablecoins](altcoins/stablecoins.md)
-* [Infrastruttura](altcoins/infrastruttura.md)
+* [🥭 Blockchain alternative](altcoins/blockchain-alternative.md)
+* [🛠 Infrastruttura](altcoins/infrastruttura.md)
+* [💵 Stablecoins](altcoins/stablecoins.md)
+* [🐶 Memecoins](altcoins/memecoins.md)
+* [🏫 Exchange coins](altcoins/exchange-coins.md)
+* [🎟 Utility coins](altcoins/utility-coins.md)
+* [🥷 Privacy coins](altcoins/privacy-coins.md)
 
 ## 💰 Finanza Decentralizzata
 
@@ -47,13 +52,6 @@
 * [📖 Introduzione agli NFTs](nfts/introduzione-agli-nfts.md)
 * [🧰 Casi d'uso e utilità](nfts/casi-duso-e-utilita.md)
 * [🐵 Principali collezioni ](nfts/principali-collezioni.md)
-
-## 💳 Wallet&#x20;
-
-* [Cos'è un wallet](wallet/cose-un-wallet.md)
-* [A cosa servono](wallet/a-cosa-servono.md)
-* [Tipi di wallet](wallet/tipi-di-wallet.md)
-* [Crea il tuo wallet](wallet/crea-il-tuo-wallet.md)
 
 ## Analisi fondamentale
 
