@@ -7,6 +7,7 @@
 * [🚩 Pronto a partire?](inizia-da-qua/pronto-a-partire.md)
 * [⛓ Blockchain: Fiducia 2.0](inizia-da-qua/blockchain-fiducia-2.0.md)
 * [🏴☠ Rischi delle Crypto](inizia-da-qua/rischi-delle-crypto.md)
+* [☢ Riconoscere gli Scam](inizia-da-qua/riconoscere-gli-scam.md)
 
 ## 🪙 Bitcoin
 
@@ -22,6 +23,7 @@
 * [🤝 Smart Contracts](ethereum/smart-contracts.md)
 * [🛣 Sviluppo e Roadmap](ethereum/sviluppo-e-roadmap.md)
 * [🏎 Layers 2](ethereum/layers-2.md)
+* [⚠ Critiche](ethereum/critiche.md)
 
 ## 👾 Altcoins
 
@@ -45,6 +47,13 @@
 * [📖 Introduzione agli NFTs](nfts/introduzione-agli-nfts.md)
 * [🧰 Casi d'uso e utilità](nfts/casi-duso-e-utilita.md)
 * [🐵 Principali collezioni ](nfts/principali-collezioni.md)
+
+## 💳 Wallet&#x20;
+
+* [Cos'è un wallet](wallet/cose-un-wallet.md)
+* [A cosa servono](wallet/a-cosa-servono.md)
+* [Tipi di wallet](wallet/tipi-di-wallet.md)
+* [Crea il tuo wallet](wallet/crea-il-tuo-wallet.md)
 
 ## Analisi fondamentale
 

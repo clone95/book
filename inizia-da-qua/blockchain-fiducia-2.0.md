@@ -119,4 +119,21 @@ Per approfondire Bitcoin ed Ethereum vedi le sezioni dedicate:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-###
+### Cos'è un wallet?
+
+Un crypto wallet  è un **portafoglio elettronico** dedicato esclusivamente alla gestione delle criptovalute. Il più famoso è [**MetaMask**](https://metamask.io/).
+
+Ogni wallet per criptovalute è dotato di un **indirizzo unico**, composto da lettere e numeri, che consente di ricevere denaro esattamente come il tradizionale IBAN.
+
+L’utilizzo di una qualsiasi criptovaluta richiede un portafoglio che consenta di amministrarle con la massima sicurezza.&#x20;
+
+Quando si apre un conto presso un exchange centralizzato, come Binance o Coinbase, NON si sta aprendo un wallet, ma dietro le quinte è quello che fanno loro per poter interagire con le varie Blockchain.&#x20;
+
+Il problema è che in questo caso le chiavi del wallet sono tenute dall'exchange per voi (con tutti i rischi che questo comporta).
+
+Per approfondire i wallet e creare il tuo primo wallet MetaMask:
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
