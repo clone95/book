@@ -29,7 +29,7 @@
 * [Layer 0](altcoins/layer-0.md)
 * [Layer 1 alternativi](altcoins/layer-1-alternativi.md)
 * [Stablecoins](altcoins/stablecoins.md)
-* [Insfrastruttura](altcoins/insfrastruttura.md)
+* [Infrastruttura](altcoins/infrastruttura.md)
 
 ## 💰 Finanza Decentralizzata
 
