@@ -2,7 +2,7 @@
 description: Come si può valutare il valore dell'asset Bitcoin?
 ---
 
-# 🤷 Perchè Bitcoin ha valore?
+# 💰 Il Valore di Bitcoin
 
 Lo scambio di ogni bene esistente sul pianeta ha grosso modo due componenti:
 

@@ -14,7 +14,7 @@
 ## 🪙 Bitcoin
 
 * [📖 Introduzione a Bitcoin](bitcoin/introduzione-a-bitcoin.md)
-* [🤷 Perchè Bitcoin ha valore?](bitcoin/perche-bitcoin-ha-valore.md)
+* [💰 Il Valore di Bitcoin](bitcoin/il-valore-di-bitcoin.md)
 * [⚡ Lightning Network](bitcoin/lightning-network.md)
 * [⚠ Critiche](bitcoin/critiche.md)
 
@@ -31,7 +31,7 @@
 
 * [🗺 Il Panorama Altcoin](altcoins/il-panorama-altcoin.md)
 * [🥭 Blockchain alternative](altcoins/layer-1-alternativi.md)
-* [🛠 Infrastruttura](altcoins/infrastruttura.md)
+* [🛠 Infrastrutturali](altcoins/infrastrutturali.md)
 * [💵 Stablecoins](altcoins/stablecoins.md)
 * [🐶 Memecoins](altcoins/memecoins.md)
 * [🏫 Exchange coins](altcoins/exchange-coins.md)

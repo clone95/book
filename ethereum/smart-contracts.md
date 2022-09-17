@@ -4,13 +4,9 @@
 
 Uno smart contract (“contratto intelligente”) è un semplice software che funziona sulla Blockchain, ed è scritto generalmente in Solidity, il linguaggio di programmazione di Ethereum.
 
-L’esempio più semplice di smart contract è quello che permette a un utente di mandare denaro ad altri.
+Uno "smart contract" è semplicemente un programma che gira sulla blockchain di Ethereum. È una raccolta di codice (le sue funzioni) e di dati (il suo stato) che risiede a un indirizzo specifico sulla blockchain di Ethereum.
 
-Semplicemente l’utente invia i fondi al contratto, dicendogli a chi mandarli, e il contratto farà il resto!
-
-Non c’è bisogno di doversi “fidare” di una terza parte, in quanto il codice che compone il contratto è pubblico e visibile da tutti.
-
-Uno smart contract è simile a un distributore automatico, che funziona senza intervento umano, e che garantisce lo stesso trattamento a tutti, ed è usabile da chiunque!
+Uno smart contract è simile a un distributore automatico, che funziona senza intervento umano,  garantisce lo stesso trattamento a tutti, ed è usabile da chiunque!
 
 ### Ma perchè gli smart contracts sono così importanti?
 
