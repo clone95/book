@@ -1,2 +1,0 @@
-# 🌎 Adozione nel mondo
-

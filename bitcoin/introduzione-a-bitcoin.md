@@ -52,11 +52,11 @@ Quindi se la rete Bitcoin sarà **molto usata** nel 2140 fare il minatore potreb
 
 La rete Bitcoin è in grado di processare circa **7 transazioni al secondo**, che sono veramente **poche** se pensiamo che è progettato per essere usato da chiunque!
 
-Esiste però una **soluzione** a questo problema di "**scalabilità**", ed è **Lightning Network**.&#x20;
+Esiste però una **soluzione** a questo problema di "**scalabilità**", ed è **** [**Lightning Network**](lightning-network.md).&#x20;
 
-**Lightning Network** funziona come un **secondo livello** ("layer 2") sopra Bitcoin e permette agli utenti di **scambiare valore** _senza_ dover registrare ogni singola transazione sulla blockchain.
+****[**Lightning Network**](lightning-network.md) **** funziona come un **secondo livello** ("layer 2") sopra Bitcoin e permette agli utenti di **scambiare valore** _senza_ dover registrare ogni singola transazione sulla blockchain.
 
-I _dettagli tecnici_ di come funziona li tralasciamo per ora, quello che importa è che la **Lightning Network** permette:
+I _dettagli tecnici_ di come funziona li tralasciamo per ora, quello che importa è che la [**Lightning Network**](lightning-network.md) **** permette:
 
 * pagamenti _istantanei_ tramite Bitcoin
 * scalabilità fino a _milioni_ di transazioni al secondo
