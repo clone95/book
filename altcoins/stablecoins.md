@@ -1,2 +1,2 @@
-# 💵 Stablecoins
+# Stablecoins
 

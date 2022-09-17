@@ -1,2 +1,2 @@
-# 🛠 Infrastruttura
+# Infrastruttura
 

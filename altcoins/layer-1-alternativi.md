@@ -1,2 +1,2 @@
-# 🥭 Blockchain alternative
+# Layer 1 alternativi
 
