@@ -14,15 +14,15 @@ Il più importante oracolo è [Chainlink](https://chain.link/).
 
 ### Indicizzazione
 
-Le applicazioni blockchain faticano ad aderire a proprietà quali la finalità, la riorganizzazione della catena e la sicurezza dell'esecuzione delle query. Gli Indexing protocol mirano a risolvere questo e altri problemi.
+Trovare i dati giusti sulla blockchain può essere difficile, e spesso i dati sono aggregati in modo non proprio intuitivo.&#x20;
 
-Il protocollo può essere utilizzato per cercare qualsiasi dato di Ethereum attraverso semplici query. Questo risolve il problema comune a molte altre piattaforme di indicizzazione blockchain.
+I protocolli di indicizzazione funzionano in modo simile ai **motori di ricerca** come Google o Bing, con la differenza però che **indicizzano** e rendono **accessibili** i dati sulla blockchain.
 
 [The Graph](https://thegraph.com/en/) è il protocollo di indicizzazione più famoso.
 
 ### Sicurezza
 
-Alcuni progetti cercano di rendere la blockchain un posto più sicuro.&#x20;
+Alcuni progetti cercano di rendere la blockchain un posto più **sicuro**.&#x20;
 
-Ad esempio, [Lossless](https://lossless.io/) può bloccare qualsiasi transazione fraudolenta in base a una serie di parametri di identificazione delle frodi.
+Ad esempio, [Lossless](https://lossless.io/) può bloccare qualsiasi transazione **fraudolenta** in base a una serie di parametri di identificazione delle frodi.
 
