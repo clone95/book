@@ -32,7 +32,7 @@
 * [🗺 Il Panorama Altcoin](altcoins/il-panorama-altcoin.md)
 * [🥭 Blockchain alternative](altcoins/layer-1-alternativi.md)
 * [🛠 Infrastrutturali](altcoins/infrastrutturali.md)
-* [🎟 Governance coins](altcoins/governance-coins.md)
+* [🎟 Governance coins](altcoins/utility-coins.md)
 * [💵 Stablecoins](altcoins/stablecoins.md)
 * [🐶 Memecoins](altcoins/memecoins.md)
 * [🏫 Exchange coins](altcoins/exchange-coins.md)
