@@ -15,8 +15,6 @@ La nostra missione è di _dare a tutti la possibilità_ di entrare in questo inc
 
 ## Perchè una Wiki?
 
-<img src=".gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
-
 Il mondo delle **Crypto** è _vastissimo_ e _affascinante_, ma si _evolve_ alla velocità della luce!&#x20;
 
 Inoltre, tutta l'informazione è _frammentata_ e _sparsa_ attraverso Internet.
