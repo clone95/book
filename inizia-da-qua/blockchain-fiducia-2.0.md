@@ -115,13 +115,5 @@ Inoltre esistono migliaia di progetti crypto che non sono una Blockchain, ma ven
 
 Tutte le "altre crypto" oltre a Bitcoin ed Ethereum sono dette **Altcoins** ("Alternative Coins").
 
-### Cos'è un wallet?
 
-Un crypto wallet ("portafoglio") è un **portafoglio elettronico** dedicato esclusivamente alla gestione delle criptovalute. Il più famoso è [**MetaMask**](https://metamask.io/).
-
-Ogni wallet per criptovalute è dotato di un **indirizzo unico**, composto da lettere e numeri, che consente di ricevere denaro esattamente come il tradizionale IBAN.
-
-Quando si apre **un conto** presso un **exchange centralizzato**, come Binance o Coinbase, **NON** si sta aprendo un wallet, ma **dietro le quinte** è quello che fanno loro per poter interagire con le varie Blockchain.&#x20;
-
-Il problema è che in questo caso **le chiavi** del wallet **sono tenute dall'exchange** per voi (con tutti i rischi che questo comporta).
 
