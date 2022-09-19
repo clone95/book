@@ -4,14 +4,16 @@ description: Come si può valutare il valore dell'asset Bitcoin?
 
 # 💰 Il Valore di Bitcoin
 
-Lo scambio di ogni bene esistente sul pianeta ha grosso modo due componenti:
+### Come varia il prezzo di un bene?
+
+Lo scambio di ogni bene (fisico o digitale) ha grosso modo due componenti:
 
 * La prima componente è il valore intrinseco di quel bene, che è determinato da vari fattori, tra cui la l'utilità e la rarità del bene, e infine dalla legge della domanda e dell'offerta.
-* La seconda componente è la speculazione, che accompagna sempre lo scambio dei beni, sia che si tratti di materie prime, automobili, o servizi.&#x20;
+* La seconda componente è la speculazione, che accompagna sempre lo scambio dei beni, sia che si tratti di materie prime, oggetti lavorati o servizi.&#x20;
 
 La somma delle due componenti costituisce l'andamento del prezzo del bene.&#x20;
 
-In questo articolo ci concentriamo solo sulla prima componente, ovvero il valore intrinseco.&#x20;
+In questo articolo ci concentriamo solo sulla prima componente, ovvero il valore intrinseco, e cerchiamo capire se Bitcoin ha un valore di questo tipo.&#x20;
 
 ### Cos'è il denaro?&#x20;
 
