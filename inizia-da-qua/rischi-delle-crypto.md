@@ -33,7 +33,7 @@ Questo significa che la **perdita di fiducia** in un progetto crypto può portar
 
 Questo in ultima istanza può portare al **fallimento**, visto che _quasi sempre_ la tesoreria del progetto contiene in larga parte i token del progetto stesso.&#x20;
 
-Con il **crollo del prezzo** del token, anche **le casse** del progetto spesso ne **risentono**.
+Con il **crollo del prezzo** del token, anche **le casse** del progetto ne **risentono**.
 
 ### Rischio informatico o di frode
 
@@ -41,11 +41,11 @@ Poiché le criptovalute sono essenzialmente una **moneta scambiabile**, hanno at
 
 Questi possono **intercettare** gli scambi, **svuotare** i **portafogli** degli utenti e **infettare** i singoli computer con **malware** che rubano le crypto.&#x20;
 
-Inoltre, le crypto dipendono in larga misura da **società non regolamentate**, alcune delle quali possono essere **prive di controlli** interni adeguati e possono essere più soggette a **frodi e furti** rispetto alle istituzioni finanziarie regolamentate.&#x20;
+Inoltre, le crypto dipendono in larga misura da **società non regolamentate**, alcune delle quali possono essere **prive di adeguati controlli** interni e possono essere più soggette a **frodi e furti** rispetto alle istituzioni finanziarie regolamentate.&#x20;
 
-**Le possibilità di recupero sono minime.**
+**Le possibilità di recupero dei fondi sono minime.**
 
-Se viene rubata **le chiave privata** del portafoglio di un utente, il **ladro** può **impersonare** il **proprietario** originale del conto e ha lo stesso **accesso al denaro** contenute nel **wallet** che ha il proprietario originale.&#x20;
+Se viene rubata **le chiave privata** del portafoglio di un utente, il **ladro** può **impersonare** il **proprietario** originale del conto e ottiene l'**accesso ai fondi** contenuti nel **wallet.**
 
 Una volta che le crypto sono state trasferite dal conto e la transazione è stata **inserita nella catena** di blocchi, **i soldi sono persi per sempre**.
 

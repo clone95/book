@@ -43,7 +43,7 @@ Ciò conferisce all'autorità centrale responsabile del mantenimento del libro m
 
 Con il Bitcoin, il libro mastro è invece decentralizzato.
 
-Ciò significa che nessun individuo o entità ha il potere di creare arbitrariamente nuove unità (causando così inflazione) o di congelare il vostro conto o bloccare l'elaborazione di un particolare pagamento!
+Ciò significa che nessun individuo o entità ha il potere di creare arbitrariamente nuove unità della moneta, di congelare il vostro conto o bloccare l'elaborazione di un particolare pagamento!
 
 Bitcoin quindi trae il suo valore dal fatto di essere:
 
