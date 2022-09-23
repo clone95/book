@@ -26,9 +26,9 @@ La “nuova” **Roadmap** ha come punto di partenza il **Merge** e si sviluppa 
 * **The Purge**: Aggiornamento volto a **ridurre** la quantità di dati sulla **Blockchain**.
 * **The Splurge**: Una serie di **implementazioni extra** su scalabilità e velocità della rete.
 
-&#x20;
+****
 
-#### **The Merge** <a href="#the-merge" id="the-merge"></a>
+**Il Merge**
 
 \
 L'aggiornamento riguarda il passaggio da **Proof Of Work** a **Proof Of Stake**.

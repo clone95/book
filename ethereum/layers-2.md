@@ -18,7 +18,7 @@ In questo modo **Ethereum** gestisce la **sicurezza**, la disponibilità dei dat
 
 Il **layer 2** toglie al **Layer 1** l'onere delle **transazioni**, la rete principale diventa quindi meno **congestionata** e più **scalabile**.
 
-#### I Rollup <a href="#i-rollup" id="i-rollup"></a>
+### I Rollup <a href="#i-rollup" id="i-rollup"></a>
 
 Si tratta della **tipologia** di **Layer 2** più **efficace** per scalare **Ethereum**, consentendo agli utenti di ridurre le **commissioni** di gas **fino a 100 volte** quello che pagherebbero su rete principale.
 
@@ -26,10 +26,10 @@ I **Rollup** raggruppano centinaia di **transazioni** in una sola su **Ethereum*
 
 Le transazioni di **Rollup** vengono eseguite **off-chain**, ma i dati delle transazioni vengono inviati ad **Ethereum**.
 
-Esistono due approcci diversi ai **Rollup**, **Optimistic** e **Zero-Knowledge** (ZK), che si differenziano per il modo in cui i dati delle **transazioni** vengono inviati ad **Ethereum**:
+Esistono due approcci diversi ai **Rollup** che si differenziano per il modo in cui i dati delle **transazioni** vengono inviati ad **Ethereum**:
 
 * **Optimistic Rollup**: le **transazioni** vengono considerate **a prescindere valide** (da cui “ottimistiche”), ma se si **sospetta** che una transazione non sia **valida**, si esegue una prova di errore per verificare se questa è **effettivamente avvenuta**.
-* **ZK Rollup**: utilizzano **prove di validità** in cui le transazioni vengono calcolate **off-chain**, successivamente i dati compressi vengono forniti alla rete **Ethereum** come prova della loro validità.
+* **ZK (Zero-Knowledge) Rollup**: utilizzano **prove di validità** in cui le transazioni vengono calcolate **off-chain**, successivamente i dati compressi vengono forniti alla rete **Ethereum** come prova della loro validità.
 
 Tra gli **Optimistic Rollup** più importanti abbiamo:
 
@@ -48,4 +48,4 @@ Le **sidechain** e i **validium** funzionano in **parallelo** con **Ethereum** e
 
 Entrambe hanno una **scalabilità** simile a quella dei **layer 2** (commissione basse e scalabilità), ma hanno presupposti di **fiducia** diversi.
 
-La **sidechain** più importante e famosa è [polygon](https://polygon.technology/)
+La **sidechain** più importante e famosa è quella di [Polygon](https://polygon.technology/).
