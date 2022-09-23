@@ -34,7 +34,7 @@ Ad esempio, deve essere corretto il numero di voti ottenuti per un candidato o p
 
 **Storicamente** questo "problema di fiducia" è stato risolto da **enti centrali** che garantiscono per le due parti.&#x20;
 
-Ad esempio, una banca garantisce a chi presta denaro che potrà riaverlo indietro, Amazon garantisce che l'oggetto che hai comprato ti arriverà a casa, e gli stati garantiscono che le elezioni nazionali siano valide!
+Ad esempio, una banca garantisce a chi presta denaro che potrà riaverlo indietro, Amazon garantisce che l'oggetto che hai comprato ti arriverà a casa, e gli stati garantiscono che le elezioni nazionali siano valide.
 
 Grazie agli enti centrali come gli stati, le banche, o le aziende, l'uomo riesce a "fidarsi" anche di non conosce, ma a un **caro prezzo**: fidarsi dell'intermediario che garantisce la fiducia.&#x20;
 
@@ -48,8 +48,6 @@ Curiosità:
 "The Times 03/Gen/2009 - Il Cancelliere sta per salvare le banche una seconda volta."
 
 Alludeva al sistema bancario **malato** e **speculativo** che ha portato alla crisi mondiale del 2008.
-
-
 {% endhint %}
 
 ### La Blockchain: Fiducia 2.0
@@ -60,18 +58,18 @@ La tecnologia Blockchain è il _candidato ideale_ per farlo!
 
 Grazie alla Blockchain, si possono creare sistemi di "fiducia online" tra persone che non si conoscono e vivono lontanissime tra loro.&#x20;
 
-Rispetto ai sistemi di fiducia tradizionali, questi sistemi sono garantiti dalla del **software** e della **crittografia**, non più del notaio o dell'agenzia di assicurazione.&#x20;
+Rispetto ai sistemi di fiducia tradizionali, questi sistemi sono garantiti dal **software** e dalla **crittografia**, non più dal notaio o dall'agenzia di assicurazione.&#x20;
 
 Ed essendo il software **Open Source** (pubblico e aperto a tutti) **ci si può fidare**, dato che **chiunque** può leggere "**le regole**" del sistema di fiducia.&#x20;
 
 {% hint style="info" %}
-Nella pratica la tecnologia Blockchain fornisce due importanti garanzie:
+Nella pratica la Blockchain fornisce due importanti **garanzie**:
 
 * permette di "**mettere d'accordo**" tutti sui **dati del sistema** (il numero di voti, i prezzi dei beni, o le decisioni da prendere)
 * garantisce che i **dati** del sistema siano **corretti**, e che **non** siano **modificabili** o **oscurabili**
 {% endhint %}
 
-### Come funziona la Blockchain?
+### Come funziona?
 
 La tecnologia Blockchain consiste in una **catena** di "**blocchi dati**" che vengono **validati** da una **serie di computer** sparsi nel mondo, che **non si conoscono** fra di loro.&#x20;
 
@@ -87,25 +85,31 @@ Ci sono **varie tipologie** di tecnologia Blockchain, le quali usano diverse str
 La Blockchain è un sistema trasparente ed affidabile per "fidarsi" tra sconosciuti, che non passa attraverso un singolo ente centrale, ma che si basa sul software eseguito su tantissimi computer sparsi nel mondo.&#x20;
 {% endhint %}
 
-La catena di dati è pubblica e non è controllata da nessuno, e di fatto si comporta come un **gigantesco foglio Excel mondiale**, memorizzato su tutti i computer della rete.&#x20;
+La catena di dati è pubblica e non è controllata da nessuno.
 
-Chiunque, tramite un computer, può scaricare questo _database_ per intero, e contribuire alla sua scrittura e difesa.
+Nella pratica si comporta come un **gigantesco database mondiale**, di cui è presente una copia in ogni computer della rete (detto "nodo").&#x20;
+
+_Chiunque_ tramite un computer può scaricare questo **database** per intero e **contribuire** alla sua scrittura e difesa.
 
 Chi sceglie di farlo è chiamato "**miner**" (minatore) o "**validator**" (validatore).&#x20;
 
-#### Ma perchè ha senso fare il miner o il validator?
+Il nome usato dipende dall'**algoritmo di consenso** che la rete sfrutta per funzionare, ovvero dalla **strategia** scelta per "**mettere l'accordo tutti i nodi**".
 
-**In cambio** del **lavoro svolto** per la catena, i miners e i validators vengono **ricompensati** con una **moneta** digitale **emessa** dalla catena stessa.
+I due **algoritmi di consenso** più popolari sono **Proof of Work** (PoW), dove i minatori spendono **elettricità** sotto forma di complessi calcoli matematici eseguiti dai loro computer, e **Proof of Stake** (PoS), nella quale i **validatori** mettono parte del loro capitale **"in gioco"** nella rete.&#x20;
+
+### Ma perchè ha senso fare il minatore o il validatore?
+
+**In cambio** del **lavoro di validazione svolto** per la catena, i miners e i validators vengono **ricompensati** con una **moneta** digitale **emessa** dalla catena stessa.
 
 Ad esempio, la **blockchain di Bitcoin** ricompensa nella valuta Bitcoin (BTC), mentre **la blockchain Ethereum** ricompensa nella valuta Ether (ETH).
 
 Con "**cryptocurrency**" (criptovaluta) si intende la **moneta** emessa dalla rete Blockchain o specifica di una applicazione eseguita su di essa.
 
-Questa è spesso fonte di speculazione da parte dei partecipanti del mercato.
+Questa è spesso oggetto di **speculazione** da parte dei partecipanti del mercato.
 
 ### Quali sono le Blockchain più usate?
 
-Dalla nascita di Bitcoin nel 2009 sono nate **tante altre** Blockchain, anche se differiscono scelte tecnologiche e per livello di adozione.
+Dalla nascita di Bitcoin nel 2009 sono nate **tante altre** Blockchain, anche se differiscono per scelte tecnologiche e per livello di adozione.
 
 Non esiste una Blockchain "migliore" delle altre, dato che alcune si focalizzano sulla **sicurezza**, altre sulla **facilità di programmazione** e altre ancora sulla **velocità della rete**!
 
@@ -115,9 +119,9 @@ Non esiste una Blockchain "migliore" delle altre, dato che alcune si focalizzano
 
 ****[**Ethereum**](broken-reference) è nato nel 2015 ed è pensato per poter eseguire **interi programmi** sulla Blockchain, permettendo **applicazioni** molto più complesse del semplice scambio di denaro!
 
-Oltre a Bitcoin ed Ethereum esistono però tantissime altre Blockchain, e anche se molte hanno fallito nel tentativo di diventare ampiamente utilizzate, sono comunque degne di nota.&#x20;
+Oltre a Bitcoin ed Ethereum esistono però **tantissime altre Blockchain**, e anche se molte hanno fallito nel tentativo di diventare ampiamente utilizzate, sono comunque degne di nota.&#x20;
 
-Inoltre esistono migliaia di progetti crypto che non sono una vera e propria rete Blockchain, ma vengono costruiti su reti esistenti.&#x20;
+Inoltre esistono **migliaia di progetti crypto** che non sono vere e proprie reti Blockchain, ma vengono **costruiti sulle Blockchain esistenti**.&#x20;
 
 Tutte le "altre crypto" oltre a Bitcoin ed Ethereum sono dette [**Altcoins**](../altcoins/il-panorama-altcoin.md) **** ("Alternative Coins").
 
