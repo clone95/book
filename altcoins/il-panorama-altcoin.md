@@ -33,7 +33,8 @@ Queste categorie non sono però stringenti, e un token può avere varie funziona
 * Danno **accesso esclusivo** a features in beta
 * Permettono l’utilizzo di **funzioni specifiche** dell’applicazione
 * Consentono di ricevere **ricompense** ed incentivi
-* Permettono di pagare le gas fees della piattaforma
-* Sono usabili come garanzia per prendere prestiti decentralizzati
-* Il loro acquisto finanzia gli sviluppatori del progetto su cui sono costruite
+* Permettono di pagare le **gas fees** della piattaforma
+* Sono usabili come **garanzia** per prendere **prestiti** decentralizzati
+
+Spesso una Altcoin ha **una o più** di queste funzioni, e il confine tra le varie categorie tende a sfumare.
 
