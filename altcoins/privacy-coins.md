@@ -8,15 +8,15 @@ Anche se il nome dell'utente è riservato, **l'indirizzo pubblico** dell'utente 
 
 Molte piattaforme di scambio di **criptovalute** richiedono sempre agli utenti di verificare la propria identità tramite **KYC** prima di poter utilizzare la piattaforma.
 
-Nasce da qui l’esigenza di creare **crypto** che abbiano come scopo principale la **garanzia dell’anonimato** del loro utilizzatore, le cosiddette **Privacy coin**.
+Nasce da qui l’esigenza di creare **crypto** che abbiano come scopo principale la **garanzia dell’anonimato** del loro utilizzatore, le cosiddette **Privacy coins**.
 
-### Le Privacy coin <a href="#le-privacy-coin" id="le-privacy-coin"></a>
+### Cosa sono? <a href="#le-privacy-coin" id="le-privacy-coin"></a>
 
-Si definiscono **Privacy coin** quelle **criptovalute** progettate specificamente per fornire uno **strato di privacy** all’utilizzatore, poiché il loro codice incorpora diverse funzioni che **garantiscono l’anonimato** delle transazioni.
+Si definiscono **Privacy coins** quelle **criptovalute** progettate specificamente per fornire uno **strato di privacy** all’utilizzatore, poiché il loro codice incorpora diverse funzioni che **garantiscono l’anonimato** delle transazioni.
 
-Le **Privacy coin** sono quindi progettate per **oscurare** le informazioni sull'identità dei loro utenti e altri record di transazioni, e tutte le informazioni che possono essere **collegate** a un individuo sono **disponibili solo a quest'ultimo**.
+Le **Privacy coins** sono quindi progettate per **oscurare** le informazioni sull'identità dei loro utenti e altri record di transazioni, e tutte le informazioni che possono essere **collegate** a un individuo sono **disponibili solo a quest'ultimo**.
 
-Esempi di **Privacy coin** sono: **Monero**, **Dash**, **Zcash**, **DeepOnion**, **Firo**.
+Esempi di **Privacy coins** sono: **Monero**, **Dash**, **Zcash**, **DeepOnion**, **Firo**.
 
 #### Monero <a href="#monero" id="monero"></a>
 

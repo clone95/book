@@ -1,5 +1,7 @@
 # 🎟 Governance coins
 
+### Cosa sono?
+
 Le **Governance coins** (dette anche "governance tokens") rappresentano la **partecipazione** di una persona in una particolare organizzazione/progetto decentralizzato.
 
 Le persone che possiedono i **token di governance** hanno il **diritto di votare** su come il progetto sarà sviluppato e come funzionerà.
