@@ -44,7 +44,7 @@ Oggi, **decine di team** di sviluppo e personalità anche al di fuori del mondo 
 
 ### Ethereum è stato preminato
 
-Sebbene sia un fatto che Ethereum abbia avutola sua **ICO** e sia stato "**pre-minato**", è importante capire il **contesto**: nel **2014** questo era semplicemente il modo più **equo** e **semplice** per raccogliere fondi.&#x20;
+Sebbene sia un fatto che Ethereum abbia avuto la sua **ICO** e sia stato "**pre-minato**", è importante capire il **contesto**: nel **2014** questo era semplicemente il modo più **equo** e **semplice** per raccogliere fondi.&#x20;
 
 Alla genesi, la **Ethereum Foundation** deteneva circa 12 milioni di ETH. Tuttavia, nel corso degli anni, questi sono stati distribuiti per lo sviluppo dell'ecosistema.
 

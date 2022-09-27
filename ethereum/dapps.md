@@ -10,7 +10,11 @@ Nella pratica possiamo definire le **dApps** come un **insieme** di uno o più *
 
 ### Differenza tra Apps e dApps <a href="#differenza-tra-apps-e-dapps" id="differenza-tra-apps-e-dapps"></a>
 
-Le normali Apps che utilizziamo tutti giorni (es: Twitter o l’applicazione bancaria) vengono ospitate su un server di proprietà e gestito dell’azienda. Di conseguenza ha il pieno controllo sull’applicazione, sul suo funzionamento e sui dati in entrata/uscita. Inoltre ha il potere di censurare le attività degli utenti che in qualche modo violano le policy decise dall’azienda proprietaria.
+**Le normali Apps** che utilizziamo tutti giorni (es: Twitter o l’applicazione bancaria) vengono ospitate su un **server di proprietà** e gestito dell’azienda.&#x20;
+
+Di conseguenza l'azienda ha il **pieno controllo** sull’applicazione, sul suo **funzionamento** e sui **dati** in entrata/uscita.&#x20;
+
+Inoltre ha il potere di **censurare** le attività degli utenti che in qualche modo violano le policy decise dall’azienda proprietaria.
 
 Le **dApps**, al contrario, vengono eseguite sulla **Blockchain** che è ambiente **pubblico**, **open-source** e **decentralizzato**, **rendendole** effettivamente **libere dal controllo di una entità centralizzata e resistenti alla censura**.
 
@@ -20,7 +24,7 @@ I **vantaggi** delle dApps risiedono nelle caratteristiche intrinseche. Tra le q
 
 * _**Resistenza alla censura**_: L’utente che utilizza una dApp non può essere censurato o bloccato da una singola entità centrale.
 * _**Open**_: chiunque può utilizzare i servizi offerti dalla dApp.
-* _**Open**-**Source**_: Il codice della dApp è open-source e viene reso disponibile per la comunità degli sviluppatori. Qualsiasi aggiornamento al codice deve essere fatto attraverso un meccanismo di consenso che equivale a una forma di voto democratico e collettivo piuttosto che da un singolo sviluppatore.
+* _**Open**-**Source**_: Il codice della dApp è open-source e viene reso disponibile per la comunità degli sviluppatori. Qualsiasi aggiornamento al codice deve essere fatto attraverso un meccanismo di consenso, che equivale a una forma di voto democratico e collettivo.
 * _**Decentralizzata**_: i dati della dApp sono anonimi (o semi-anonimi) poiché vengono memorizzati su una blockchain pubblica e immutabile.
 * _**Protezione crittografica**_: L’integrità dei dati e dell’esecuzione della dApp è garantita dalla blockchain sulla quale gira.
 * _**Zero (o quasi) tempo di inattività**_: Essendo ospitate su Blockchain, la possibilità che la rete (es: Ethereum) venga violata o subisca un “downtime” è un evento raro.

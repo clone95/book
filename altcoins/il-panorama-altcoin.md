@@ -13,11 +13,13 @@ Le prime **altcoins** sono nate nel **2011** e oggi ne esistono **decine di migl
 
 ### A cosa servono? <a href="#a-cosa-servono" id="a-cosa-servono"></a>
 
-Le altcoins sono progettate nei modi più disparati e il loro scopo in genere è consentire l’accesso e l’uso alla blockchain o alle dApps costruite di essa.
+Le altcoins sono **progettate** nei modi più **disparati** in base al problema che intendono risolvere.
+
+Il loro scopo in genere è consentire l’**accesso** e l’uso alla **Blockchain** o alle **dApps** costruite di essa.
 
 Possono essere il token nativo di una Blockchain Layer1 (come ETH per Ethereum o SOL per Solana), oppure il token di una specifica dApp, come Uniswap (UNI) o Chainlink (LINK).
 
-Le Altcoins sono classificabili in 7 grandi categorie:
+Le altcoins sono classificabili in **7 grandi categorie**:
 
 * **Blockchain alternative:** cryptovalute native di blockchain diverse da Bitcoin
 * **Infrastruttura:** crypto che rappresentano la parte infrastrutturale della rete
