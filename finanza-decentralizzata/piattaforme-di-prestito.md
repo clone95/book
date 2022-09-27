@@ -2,14 +2,12 @@
 
 ### **Prestiti Decentralizzati** <a href="#prestiti-decentralizzati" id="prestiti-decentralizzati"></a>
 
-Il Crypto **Lending & Borrowing** ("erogare e richiedere prestiti") è una **forma alternativa di investimento** basata su applicazioni decentralizzate.
-
-Ha come finalità il collegamento tra soggetti che **ricercano capitali in prestito** (mutuatari), e soggetti che intendono **prestare il proprio capitale inattivo** (prestatori) in cambio di un **interesse**.
+Il Crypto **Lending & Borrowing** ("erogare e richiedere prestiti") è una **forma alternativa di investimento,** basata su applicazioni decentralizzate, che ha come finalità il collegamento tra soggetti che **ricercano capitali in prestito** (mutuatari), e soggetti che intendono **prestare il proprio capitale inattivo** (prestatori) in cambio di un **interesse**.
 
 Ciò significa che ci sono **solamente** due parti principali coinvolte in questo prestito:
 
 * Il **prestatore**, che riceverà gli **interessi** dal mutuatario in cambio del prestito.
-* Il **mutuatario**, che deposita delle **crypto** come **garanzia** per assicurare di poter ripagare il prestito.
+* Il **mutuatario**, che deposita delle crypto come garanzia per assicurare di poter ripagare il prestito.
 
 **Depositando la garanzia (detta "collaterale")**, i prestatori possono essere sicuri che se qualcosa va storto il collaterale sarà usato per risarcirli.&#x20;
 
@@ -43,7 +41,7 @@ L’operazione di deposito è definita **supply** ("fornire").
 
 I **prestatori** inizieranno immediatamente a maturare un rendimento percentuale annuo, indicato come “**APY**”.
 
-Il prestatore può in qualunque momento **riscattare** le proprie crypto messe a garanzia.
+Il prestatore può in qualunque momento **riscattare** i propri token.
 
 In seguito, se se si vuole prendere un prestito usando come garanzia gli asset appena depositati, si può effettuare l'operazione di **borrow** ("richiedere prestito").
 

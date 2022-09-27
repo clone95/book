@@ -10,10 +10,10 @@ Nonostante il settore sia relativamente **nuovo** ci sono già alcuni progetti c
 
 Le **assicurazioni** nascono proprio per mitigare i **rischi** intrinsechi della DeFi attraverso servizi che **coprono**:
 
-* **Exploit** degli smart contract&#x20;
-* **Furto** di wallet
-* **Hacking** degli scambi
-* **Depeg** delle stablecoins
+* **Exploit ("sfruttamento")** degli smart contract&#x20;
+* **Furto** di chiave del wallet
+* **Hacking** dei DEX
+* **Depeg** ("distaccamento") delle stablecoins
 
 In generale le assicurazioni in DeFi coprono qualsiasi danno causato da **specifiche carenze** della finanza decentralizzata.
 

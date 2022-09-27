@@ -4,7 +4,7 @@
 
 I **DEXes** (**D**ecentralized **EX**changes) sono uno dei **blocchi fondamentali** della [**DeFi**](introduzione-alla-defi.md), dato che permettono lo **scambio** di beni digitali senza la necessità di una controparte centrale.&#x20;
 
-Nella pratica, un **DEX è un'applicazione decentralizzata** che funziona grazie a una serie di [Smart Contracts](../ethereum/smart-contracts.md) ospitati sulla Blockchain, come ad esempio [Ethereum](../ethereum/introduzione-a-ethereum.md).
+Nella pratica, un **DEX è un'applicazione decentralizzata** che funziona grazie a una serie di [Smart Contracts](../ethereum/smart-contracts.md) che funzionano sulla Blockchain, come ad esempio [Ethereum](../ethereum/introduzione-a-ethereum.md).
 
 Esistono **innumerevoli** DEX e sono presenti in quasi ogni blockchain.
 
@@ -40,7 +40,7 @@ Utilizzando un AMM, è possibile scambiare **qualsiasi** cryptovaluta si desider
 
 I più grandi DEX che usano il modello AMM sono [**Uniswap**](https://uniswap.org/) e [**PancakeSwap**](https://pancakeswap.finance/).
 
-Ad oggi il modello AMM è considerato il "**dominant design**" per la progettazione di un DEX.
+Ad oggi il modello AMM è considerato il "dominant design" la per progettazione di un DEX.
 
 #### **Order-book DEX** <a href="#order-book-dex" id="order-book-dex"></a>
 
@@ -52,7 +52,7 @@ La **differenza** principale è che in un DEX le cryptovalute sono conservate ne
 
 ****[**dYdX**](https://dydx.exchange/) e [**Serum**](https://www.projectserum.com/) sono alcuni dei DEX più popolari di questo tipo.
 
-#### **Aggregatori di DEX** <a href="#dex-aggregator" id="dex-aggregator"></a>
+#### **DEX aggregator** <a href="#dex-aggregator" id="dex-aggregator"></a>
 
 Un DEX aggregator **raccoglie** i dati delle commissioni e dei pool di liquidità disponibili nei vari DEX e **offre** all’utente **il** **miglior prezzo possibile** disponibile in quel momento.
 
