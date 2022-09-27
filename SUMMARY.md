@@ -4,7 +4,6 @@
 
 ## 🖐 Inizia da qua
 
-* [🚩 Pronto a partire?](inizia-da-qua/pronto-a-partire.md)
 * [⛓ Blockchain: Fiducia 2.0](inizia-da-qua/blockchain-fiducia-2.0.md)
 * [🗂 Wallet & Custodia](inizia-da-qua/wallet-and-custodia.md)
 * [🏴☠ Rischi delle Crypto](inizia-da-qua/rischi-delle-crypto.md)

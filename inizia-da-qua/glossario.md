@@ -14,7 +14,7 @@ ABI è l'acronimo di Application Binary Interface (Interfaccia binaria di applic
 
 API è l'acronimo di Application Programming Interface, un'interfaccia tra computer o programmi che consente il passaggio di informazioni tra di essi. Tutte le funzionalità di monitoraggio delle mempool di Blocknative sono disponibili tramite API.
 
-### Arbitrum&#x20;
+### [Arbitrum](../ethereum/layers-2.md#i-rollup)&#x20;
 
 Arbitrum è una soluzione di scalabilità di livello 2 di Ethereum che riduce le commissioni e la congestione della rete calcolando le transazioni al di fuori della rete principale di Ethereum (il Layer 1 sul quale si appoggia).
 
@@ -26,7 +26,11 @@ Un Archival Node ("nodo di archivio") è un nodo completo della blockchain che c
 
 La Base fee ("commissione di base") è una commissione determinata algoritmicamente che gli utenti della blockchain Ethereum devono pagare per completare una transazione. La commissione di base è stata progettata per contribuire a rendere uniformi le commissioni di transazione e a prevenire picchi improvvisi, puntando ad avere blocchi pieni al 50%.&#x20;
 
-### Blockchain
+### [Bitcoin](broken-reference)
+
+La prima Blockchain degna di nota e con un vasto utilizzo. Ad oggi è l'indice del mercato crypto nel suo complesso e la moneta della chain (bitcoin - BTC) è la più capitalizzata del settore.
+
+### [Blockchain](blockchain-fiducia-2.0.md)
 
 Una blockchain è un database distribuito condiviso tra i nodi di una rete di computer. Le blockchain memorizzano in blocchi un registro storico di informazioni (ad esempio conti e transazioni) in continua crescita. Una Blockchain è immutabile e difficile da attaccare e modificare.
 
@@ -34,15 +38,15 @@ Una blockchain è un database distribuito condiviso tra i nodi di una rete di co
 
 Un bridge ("ponte") è un'applicazione che collega due (o più) blockchain. I bridge consentono agli utenti di inviare beni digitali da una rete all'altra. Questa operazione viene comunemente chiamata anche "cross-chain swapping".
 
-### dApp&#x20;
+### [dApp](../ethereum/dapps.md)&#x20;
 
 Una dApp, o applicazione decentralizzata, è un'applicazione costruita su una rete blockchain decentralizzata utilizzando contratti intelligenti e librerie javascript del Web 3.0. Esempi di dApp sono i portafogli web3, i DEX e i mercati NFT.
 
-### DeFi&#x20;
+### [DeFi](../finanza-decentralizzata/introduzione-alla-defi.md)&#x20;
 
 DeFi è l'abbreviazione di Decentralized Finance ("finanza decentralizzata"), ovvero un sistema finanziario aperto che non si affida ad autorità centralizzate o a intermediari come le banche per condurre attività finanziarie in modo libero, come il trading, i prestiti e gli investimenti. Le API di Blocknative consentono agli utenti della DeFi di monitorare le Dapp popolari della DeFi come Uniswap (Ethereum) e Honeyswap (xDai).
 
-### DEX&#x20;
+### [DEX](../finanza-decentralizzata/exchange-decentralizzati.md)&#x20;
 
 DEX è l'abbreviazione di Decentralized Exchang ("exchange decentralizzato"). E' un tipo di mercato scambio di criptovalute consente agli utenti di effettuare transazioni in modo diretto (peer-to-peer) senza alcun intermediario. Il più grande DEX su Ethereum è Uniswap.
 
@@ -54,7 +58,7 @@ ERC20 è uno standard per i token fungibili. In altre parole questi token hanno 
 
 ERC721 è uno standard per gli NFT, in altre parole questo tipo di token è unico e può avere un diverso valore ad altri della stessa "collezione", magari dovuto all'età, alla rarità o ad altro, come il suo aspetto.
 
-### Ethereum&#x20;
+### [Ethereum](broken-reference)&#x20;
 
 Ethereum è una rete blockchain decentralizzata e open-source lanciata nel 2015 dal suo fondatore, Vitalik Buterin. Ethereum è la principale blockchain al mondo abilitata ai contratti intelligenti e il suo token nativo, ETH, è il secondo asset digitale per capitalizzazione di mercato.
 
@@ -94,13 +98,11 @@ Una internal transaction ("transazione interna") è una transazione tra uno smar
 
 Kovan è una Proof-of-Authority testnet di Ethereum accessibile pubblicamente. Blocknative offre agli utenti la possibilità di monitorare le transazioni in sospeso, quelle confermate e quelle fallite, di sostituire le transazioni per accelerare e annullare, di tracciare le transazioni e di individuare i motivi per cui le transazioni falliscono.
 
-
-
 ### Layer 1
 
 Layer 1 ("livello 1") si riferisce alla blockchain principale in una rete blockchain a più livelli. Ad esempio, Bitcoin, Ethereum, Solana, Avalanche sono tutte blockchain di Layer 1. Sono le Blockchain su cui si appoggiano i Layer 2.
 
-### Layer 2
+### [Layer 2](../ethereum/layers-2.md)
 
 Il termine Layer 2 ("livello 2") si riferisce a un protocollo che viene costruito sopra una blockchain Layer 1. I Layer 2 di solito migliorano la velocità delle transazioni e l'efficienza dei costi.&#x20;
 
@@ -136,7 +138,7 @@ Un albero di Merkle, o albero di hash, è una struttura di dati utilizzata dalle
 
 Con MEV si intende Miner Extractable Value ("Massimo Valore Estraibile"). E' il "profitto extra" che un miner può ottenere includendo, escludendo o riordinando le transazioni in un blocco. I ricercatori utilizzano strumenti MEV come Flashbots per estrarre valore dalla coda di transazioni identificando le opportunità e sottoponendo ai minatori un pacchetto di transazioni da eseguire.
 
-### NFT
+### [NFT](../nfts/introduzione-agli-nfts.md)
 
 NFT significa Non Fungible Token ("gettone non fungibile"). Un token non fungibile (NFT) è un bene digitale basato sullo standard ERC-721 di Ethereum che può essere utilizzato per rappresentare la proprietà di una varietà di beni digitali tra cui arte, fotografia, musica e altro.&#x20;
 
@@ -152,11 +154,11 @@ Per off-chain si intende qualsiasi transazione o dato che esiste al di fuori del
 
 On-chain è un termine generico che comprende qualsiasi transazione o dato disponibile sulla blockchain e visibile a tutti i nodi della rete blockchain, come ad esempio i dati della mempool, le transazioni storiche e le informazioni sul conto.&#x20;
 
-### Optimism
+### [Optimism](../ethereum/layers-2.md#i-rollup)
 
 Optimism è una soluzione di scaling di livello 2 di Ethereum che utilizza rollup ottimisti per migliorare l'efficienza della blockchain di Ethereum. I rollup di Optimism utilizzano prove di frode a giro singolo per verificare l'esecuzione dei contratti. Attualmente Blocknative non supporta la blockchain Optimism L2.
 
-### Optimistic Rollup
+### [Optimistic Rollup](../ethereum/layers-2.md#i-rollup)
 
 Gli optimistic rollup ("rollup ottimisti") sono una categoria di soluzioni di scaling di Layer 2 di Ethereum. Elaborano le transazioni su una blockchain separata e utilizzano prove di frode per convalidare la correttezza. Due esempi di blockchain che utilizzano rollup ottimistici sono Optimism e Arbitrum.
 
@@ -180,7 +182,7 @@ L'attacco sandwich è una forma di manipolazione del mercato delle criptovalute 
 
 Un kit di sviluppo software (Software Development Kit), noto anche come devkit, è una raccolta di strumenti software e programmi che gli sviluppatori possono utilizzare per distribuire rapidamente un'applicazione nel loro ambiente di sviluppo.&#x20;
 
-### Sidechain
+### [Sidechain](../ethereum/layers-2.md#side-chain-e-validium)
 
 Una sidechain ("catena laterale") è una blockchain che consente ai token di una blockchain di essere utilizzati in modo sicuro all'interno di una blockchain completamente separata, ma di tornare alla catena originale se necessario. La più popolare è quella di Polygon, che viene erroneamente chiamata Layer 2. Una sidechain è diversa da un Layer 2, in quanto quest'ultimo eredita la sicurezza del Layer 1 sul quale si appoggia, mentre una sidechain no.
 

@@ -8,12 +8,10 @@ La **mancanza** di un mercato **aperto** e **trasparente** nega invece alle picc
 
 La DeFi va incontro a questi bisogni e offre per la **prima volta** nella storia l'**accesso democratico** alla **tokenizzazione** degli asset fisici, come i **beni immobiliari** o i **certificati di proprietà**.
 
-Progetti come [**RealT**](https://realt.co/) **** permettono di “tokenizzare” gli investimenti **immobiliari** in modo **frazionato**, permettendo a chiunque di possedere una piccola % di un immobile, e poter goder del suo apprezzamento.
+Progetti come [**RealT**](https://realt.co/) **** permettono di “tokenizzare” gli investimenti **immobiliari** in modo **frazionato**, permettendo a chiunque di possedere una piccola **% di un immobile** e poter goder del suo apprezzamento.
 
-Protocolli come [**Centrifuge** ](https://centrifuge.io/)vogliono portare invece il beneficio del crowdfunding a tutti i coloro che fino ad ora non avevano accesso alla liquidità DeFi.
+Protocolli come [**Centrifuge** ](https://centrifuge.io/)vogliono portare invece il beneficio del crowdfunding a tutti i coloro che fino ad ora non avevano accesso alla liquidità in DeFi.
 
-Centrifuge collega le **attività del mondo reale in DeFi** ("Finanza decentralizzata") per abbattere il costo del **capitale per le PM**I e fornire agli investitori DeFi una fonte stabile di rendimento **non correlata alle criptovalute volatili**.
+Centrifuge collega le **attività del mondo reale alla DeFi** ("Finanza decentralizzata") per abbattere il costo del **capitale per le PMI** e fornire agli investitori DeFi una fonte stabile di rendimento, **non correlata alle criptovalute volatili**.
 
-Centrifuge permette a chiunque di lanciare un **fondo di credito on-chain** creando pool di prestiti con garanzie. Tinlake offre un modo semplice per entrare nella liquidità DeFi per qualsiasi azienda.
-
-Per gli investitori DeFi, queste attività creeranno un rendimento sicuro e stabile per il loro denaro non correlato ai rendimenti attraenti ma volatili dei mercati delle criptovalute.
+Centrifuge permette a chiunque di lanciare un **fondo di credito on-chain** creando pool di prestiti con garanzie. Funziona come l'equity o il real estate **crowdfunding** .&#x20;

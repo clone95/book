@@ -78,7 +78,7 @@ Dopo **The Purge**, gli utenti di **Ethereum** “scarteranno” i dati più **v
 
 #### **The Splurge** <a href="#the-splurge" id="the-splurge"></a>
 
-Non si ancora molto riguardando all’aggiornamento chiamato **The Splurge**, **Vitalik** ha anticipato che riguarderà **aggiornamenti extra** su tecniche di **scalabilità** e sulla **velocizzazione** della rete.\
+Non si sa ancora molto riguardando all’aggiornamento chiamato **The Splurge**, **Vitalik** ha anticipato che riguarderà **aggiornamenti extra** su tecniche di **scalabilità** e sulla **velocizzazione** della rete.\
 \
 
 

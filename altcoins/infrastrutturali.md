@@ -1,5 +1,7 @@
 # 🛠 Infrastrutturali
 
+### Cosa sono?
+
 Per fare funzionare le blockchain e le dApps come voluto, servono una serie di **progetti infrastrutturali** che sostengano **tecnicamente** tutto questo sviluppo.&#x20;
 
 Sebbene a volte siano un pò "snobbati" dal grande pubblico in questa categoria rientrano alcuni tra i **progetti** più **importanti** del settore crypto.  &#x20;

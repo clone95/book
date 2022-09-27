@@ -2,7 +2,11 @@
 
 ### **Il Trilemma**  <a href="#il-trilemma-della-blockchain" id="il-trilemma-della-blockchain"></a>
 
-Il **Trilemma della Blockchain** afferma che la blockchain perfetta è: **sicura**, **scalabile** e **decentralizzata**, ma che **nessuna blockchain** è in grado di **soddisfare tutti e tre** questi parametri.
+Il **Trilemma della Blockchain** afferma che:
+
+{% hint style="info" %}
+La blockchain perfetta è **sicura**, **scalabile** e **decentralizzata**, ma che **nessuna blockchain** è in grado di **soddisfare tutti e tre** questi parametri.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/39d01ff3aece018045b32d9d922da7a676c54b44.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,25 +24,25 @@ Queste blockchain hanno scelto tra tre possibili approcci:
 ### **Layer 0** <a href="#layer-0" id="layer-0"></a>
 
 \
-Un **Layer 0** assomiglia a una "rete di reti".
+Un **Layer 0 (L0)** assomiglia a una "rete di reti" e funge da _strato base_ sul quale è possibile sviluppare **tante Blockchain Layer 1**.&#x20;
 
-E' un tipo di rete che consente agli sviluppatori di **lanciare più blockchain** (Layer 1), che possono essere progettate per servire ciascuna uno **scopo specifico**, e soddisfare una o due dimensioni del trilemma della blockchain, **anziché tutte e tre**.
+Ogni Layer 1 viluppato sopra il Layer 0 è una Blockchain progettata per servire uno **scopo specifico**, e soddisfare una o due dimensioni del trilemma della blockchain, **anziché tutte e tre**.
 
 Il vantaggio di questo approccio è che tutte le L1 possono **condividere la sicurezza** ereditata dal Layer 0, e non preoccuparsi degli algoritmi di consenso, ma **concentrarsi** sul creare un'**esperienza utente** efficace.
 
-Queste blockchain Layer 1 sono tutte **collegate** alla rete principale (Layer 0) ed in grado di **comunicare** tra loro, ma operano in modo **indipendente.**
+I Layer 1 sono tutti **collegati** alla rete principale (L0), sono grado di **comunicare** tra loro in modo **nativo** dato che condividono lo _strato base_.
 
-Ciascun Layer 0 è dotato di un'implementazione e di un **approccio** unici per consentire agli sviluppatori di lanciare le proprie blockchain.
+Tuttavia, possono operare in modo del tutto **indipendente.**
 
-I layer 0 più importanti sono **Cosmos** e **Polkadot**.
+I Layer 0 più sviluppati e usati sono **Cosmos** e **Polkadot**.
 
 ### **Layer 1** <a href="#layer-1" id="layer-1"></a>
 
-Per Layer 1 si intende una blockchain vera e propria, **responsabile** dell'esecuzione dei compiti che mantengono le **operazioni fondamentali** di una rete, come il **meccanismo di consenso**, i linguaggi di **programmazione**, i **protocolli** e le restrizioni.
+Per Layer 1 (L1) si intende una blockchain vera e propria, **responsabile** dell'esecuzione dei compiti **fondamentali** di una rete come il **meccanismo di consenso**, i linguaggi di **programmazione**, i **protocolli** e le **restrizioni**.
 
-Il gran numero di servizi che il Layer 1 deve offrire causa spesso problemi di **scalabilità**.
+Il **gran numero** di **servizi** che il Layer 1 deve offrire causa spesso problemi di **scalabilità**.
 
-Quanti più utenti entrano sulla rete, tanto maggiore è la quantità di potenza di calcolo richiesta, con conseguenti costi più elevati e tempi di elaborazione più lunghi.
+Quanti più **utenti** usano sulla rete, tanto maggiore è la quantità di potenza di calcolo richiesta ai nodi, con conseguenti **costi di transazione più elevati** e tempi di elaborazione più **lunghi**.
 
 Il problema della **scalabilità** viene **mitigato** dai Layer 1 con l'applicazione di tecnologie come lo Sharding e dal supporto di blockchain Layer 2.
 
@@ -46,12 +50,12 @@ Il problema della **scalabilità** viene **mitigato** dai Layer 1 con l'applicaz
 
 ### **Layer 2**
 
-Un **Layer 2** (L2) è una blockchain separata, **costruita sopra** un’altra blockchain definita **Layer 1** (nel nostro caso Ethereum), che ne eredita le **garanzie di sicurezza** e ne migliora la **scalabilità**, **l’efficienza** e la **velocità.**
+Un **Layer 2** (L2) è una Blockchain separata, **costruita sopra** un’altra blockchain definita **Layer 1** (nel nostro caso Ethereum), che ne eredita le **garanzie di sicurezza** e ne migliora la **scalabilità**, **l’efficienza** e la **velocità.**
 
-#### I vantaggi di un Layer 2 <a href="#i-vantaggi-di-un-layer-2" id="i-vantaggi-di-un-layer-2"></a>
+#### I vantaggi dei Layer 2 <a href="#i-vantaggi-di-un-layer-2" id="i-vantaggi-di-un-layer-2"></a>
 
-* **Commissioni più basse**: Combinando più transazioni **off-chain** in un'unica transazione, le commissioni vengono **ridotte in modo massiccio**, rendendo **Ethereum** più **accessibile** a tutti.
-* **Sicurezza**: I **Layer 2** regolano le loro transazioni su **Ethereum**, consentendo agli utenti di **beneficiare** della sicurezza della rete principale.
-* **Maggiore sviluppo**: Con maggiore **velocità** di transazione, **commissioni basse** e nuove **tecnologie**, verranno sviluppate sempre più **applicazioni decentralizzate**.
+* **Commissioni più basse**: Raggruppando le transazioni **off-chain** in un'unica transazione (detti "batch"), le commissioni vengono **ridotte in modo significativo.**
+* **Sicurezza**: I **Layer 2** ereditano la **sicurezza** del Layer 1 su cui sono costruiti, consentendo agli utenti di **beneficiare** della sicurezza della rete principale.
+* **Maggiore sviluppo**: Con maggiore **velocità** di transazione, **commissioni basse** e nuove **tecnologie**, c'è un forte **incentivo all'innovazione**.&#x20;
 
-I layer 1 (di Ethereum) più usati sono **Arbitrum** e **Optimism**. ****&#x20;
+I Layer 2 (di Ethereum) più usati sono **Arbitrum** e **Optimism**. ****&#x20;

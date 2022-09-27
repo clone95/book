@@ -8,7 +8,7 @@ L'acronimo DeFi, abbreviazione dell'espressione inglese **decentralized finance*
 
 **Il principio guida della DeFi** è quello di rendere più efficiente il capitale, renderlo più flessibile, e sbloccare nuove opportunità di valore tramite tokenizzazione di asset tradizionali.
 
-La **differenza** tra la DeFi e il sistema creditizio tradizionale consistono si misurano in termini di **efficienza**, **accessibilità**, e **componibilità**:
+La **differenza** tra la DeFi e il sistema creditizio tradizionale consiste in termini di **efficienza**, **accessibilità**, e **componibilità**:
 
 * **chiunque può accedere** a questi prodotti, senza necessità di autenticazione, e senza barriere legati alla profilazione del credito e alla quantità di capitale disponibile;
 * **vengono eliminati gli intermediari**, che fungono spesso da barriere all’ingresso, necessitano di lunghi passaggi documentali e causano enormi inefficienze e costi!
