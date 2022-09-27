@@ -15,19 +15,19 @@ Le prime **altcoins** sono nate nel **2011** e oggi ne esistono **decine di migl
 
 Le altcoins sono **progettate** nei modi più **disparati** in base al problema che intendono risolvere.
 
-Il loro scopo in genere è consentire l’**accesso** e l’uso alla **Blockchain** o alle **dApps** costruite di essa.
+In genere il loro scopo è consentire l’**accesso** alla **Blockchain** o alle **dApps** costruite di essa.
 
 Possono essere il token nativo di una Blockchain Layer1 (come ETH per Ethereum o SOL per Solana), oppure il token di una specifica dApp, come Uniswap (UNI) o Chainlink (LINK).
 
 Le altcoins sono classificabili in **7 grandi categorie**:
 
-* **Blockchain alternative:** cryptovalute native di blockchain diverse da Bitcoin
-* **Infrastruttura:** crypto che rappresentano la parte infrastrutturale della rete
-* **Stablecoin;** rappresentano crypto ancorate 1:1 con una valuta fiat
-* **Memecoin**: Sono criptovalute ispirate a meme, parodie o eventi virali su Internet
-* **Exchange coin**: cryptovalute create dagli exchange centralizzati
-* **Governance token**: rappresentano la partecipazione ad organizzazione o progetto decentralizzato
-* **Privacy coin**: forniscono privacy e anonimato al loro utilizzatore&#x20;
+* **Blockchain alternative:** crypto native di blockchain diverse da Bitcoin
+* **Infrastrutturali:** crypto che rappresentano la parte infrastrutturale della rete
+* **Stablecoins:** rappresentano crypto ancorate 1:1 con una valuta tradizionale (es: dollaro)
+* **Memecoins**: Sono criptovalute ispirate a meme, parodie o eventi virali su Internet
+* **Exchange coins**: cryptovalute create dagli exchange centralizzati
+* **Governance tokens**: rappresentano la partecipazione a progetti decentralizzato
+* **Privacy coins**: forniscono privacy e anonimato al loro utilizzatore&#x20;
 
 Queste categorie non sono però stringenti, e un token può avere varie funzionalità allo stesso tempo:
 
@@ -38,5 +38,5 @@ Queste categorie non sono però stringenti, e un token può avere varie funziona
 * Permettono di pagare le **gas fees** della piattaforma
 * Sono usabili come **garanzia** per prendere **prestiti** decentralizzati
 
-Spesso una Altcoin ha **una o più** di queste funzioni, e il confine tra le varie categorie tende a sfumare.
+Spesso una altcoin ha **una o più** di queste funzioni, e il confine tra le varie categorie tende a sfumare.
 

@@ -23,7 +23,7 @@ Non essendoci limiti a ciò che Ethereum può fare, è in grado di offrire grand
 Mentre Bitcoin è solo una rete di pagamento, **Ethereum** è più simile a un **mercato** di **servizi** finanziari, giochi, social network e altre **applicazioni** che rispettano la privacy degli utenti e **non possono censurarli**.
 
 {% hint style="info" %}
-Per fare un'analogia, immagina Ethereum come un gigantesco **computer mondiale**, distribuito in tutti i "nodi" che prendono parte alla rete.
+Per fare un'analogia, immagine Ethereum come un gigantesco **computer mondiale**, distribuito in tutti i "nodi" che prendono parte alla rete.
 {% endhint %}
 
 ### Cosa può fare Ethereum nel pratico?
@@ -33,7 +33,7 @@ Per fare un'analogia, immagina Ethereum come un gigantesco **computer mondiale**
 * **Proteggere dai rischi di censura**: Nessun governo o azienda ha il controllo su Ethereum. Questa **decentralizzazione** rende quasi impossibile per chiunque impedirti di usare la rete.
 * **Creare prodotti componibili**: Poiché tutte le applicazioni sono costruite sulla stessa blockchain, possono comporsi a vicenda (come i LEGO). Questo permette di costruire prodotti ed esperienze fortemente innovative per gli utilizzatori della rete Ethereum.
 
-### Qual è la criptovaluta nativa della rete Ethereum e chi la controlla?
+### Quale è la criptovaluta nativa della rete Ethereum e chi la controlla?
 
 La **criptovaluta nativa** della rete Ethereum è chiamata **Ether** (ticker “ETH”). È puramente digitale e si può inviare istantaneamente a chiunque e in qualsiasi parte del mondo.
 
