@@ -1,16 +1,12 @@
 # 🎟 Governance coins
 
-### Cosa sono?
-
-Le **Governance coins** (detti anche "governance tokens") rappresentano la **partecipazione** di una persona in una particolare organizzazione o progetto decentralizzato.
+Le **Governance coins** (dette anche "governance tokens") rappresentano la **partecipazione** di una persona in una particolare organizzazione/progetto decentralizzato.
 
 Le persone che possiedono i **token di governance** hanno il **diritto di votare** su come il progetto sarà sviluppato e come funzionerà.
 
-{% hint style="info" %}
-Detenere token di governance è _simile_ a possedere **azioni** di una società.
-{% endhint %}
+Detenere token di governance è _simile_ a possedere **azioni** di una società!
 
-Sono comunemente utilizzati nelle anche nelle **DAO** (organizzazioni autonome decentralizzate), nella **DeFi** (finanza decentralizzata), nelle **dApps** (applicazioni decentralizzate).
+Sono comunemente utilizzati nelle **DAO** (organizzazioni autonome decentralizzate), nella **DeFi** (finanza decentralizzata), nelle **dApps** (applicazioni decentralizzate).
 
 ### Come funzionano? <a href="#come-funzionano" id="come-funzionano"></a>
 
@@ -36,9 +32,9 @@ Ci sono anche **dei contro** però nell’utilizzo di governance token:
 
 Le **Whales** ("balene"), ovvero persone o organizzazioni che detengono una **grande percentuale** di un governance token potrebbero far pendere il processo di voto a loro favore.
 
-Anche se i token di governance sono distribuiti in modo equo, **non c'è garanzia** che le **decisioni** della maggioranza siano sempre le **migliori** per i progetti.&#x20;
+Anche se i token di governance sono distribuiti in modo equo e ampio, **non c'è garanzia** che le **decisioni** della maggioranza siano sempre le **migliori** per i progetti.&#x20;
 
-Ci sono stati **casi** in cui i detentori di token di governance hanno votato **a favore del team fondatore** e dei **grandi investitori** a discapito della comunità in generale.
+Ci sono stati **casi** in cui i detentori di token di governance hanno votato **a favore dei team fondatori** e dei **grandi investitori** a scapito della comunità in generale.
 
 ### Cosa sono le DAO? <a href="#cosa-sono-le-dao" id="cosa-sono-le-dao"></a>
 
@@ -52,14 +48,16 @@ Le strutture di governance delle DAO sono completamente **trasparenti** e **veri
 
 ### Perché le DAO sono importanti? <a href="#perche-le-dao-sono-importanti" id="perche-le-dao-sono-importanti"></a>
 
-I progetti **Open Source** come i progetti basati su Blockchain sono in grado di **scalare** le loro operazioni molto più **rapidamente** di un'organizzazione tradizionale.
+I progetti **open source** come i progetti basati su Blockchain sono in grado di **scalare** le loro operazioni molto più rapidamente di un'organizzazione tradizionalmente governata come un'azienda.
 
-Per esempio **Uniswap**, gestito da una DAO, è in grado di elaborare quasi lo **stesso volume** di transazioni di Coinbase, nonostante abbia un ordine di **grandezza inferiore** di dipendenti rispetto a Coinbase.
+Per esempio Uniswap, gestito da una DAO, è in grado di elaborare quasi lo **stesso volume** di transazioni di Coinbase, nonostante abbia un ordine di **grandezza inferiore** di dipendenti rispetto a Coinbase.
 
 Le DAO sono più **democratiche** di un'azienda privata tradizionale, perché **chiunque** può avere **voce in capitolo** nella tabella di marcia del progetto, mentre in un'azienda privata solo il consiglio di amministrazione ha questo potere.
 
-{% hint style="success" %}
 **Le DAO consentono ai titolari di essere **_**contemporaneamente**_** investitori, operatori e utenti del protocollo.**
-{% endhint %}
 
-Per la prima volta, **persone sconosciute** tra loro possono coordinare investimenti di **miliardi di dollari** e costruire un **prodotto** che serve milioni di utenti senza mai incontrarsi di persona, firmare un documento legale o addirittura senza nemmeno conoscere il nome dell'altro (molti membri della DAO hanno pseudonimi come il loro account Twitter o solo il loro indirizzo Ethereum **ENS**).
+Per la prima volta, **persone sconosciute** tra loro possono coordinare investimenti di **miliardi di dollari** e costruire un **prodotto** che serve milioni di utenti senza mai incontrarsi di persona, firmare un documento legale o addirittura senza nemmeno conoscere il nome dell'altro (molti membri del DAO hanno pseudonimi come il loro account Twitter o solo il loro indirizzo Ethereum **ENS**).
+
+Inoltre, la DAO impedisce qualsiasi cattivo attore: non c'è modo per un membro di scappare con il denaro della DAO, almeno non nella misura in cui questo avviene in start up ed aziende tradizionali.
+
+Perché il codice è legge.
