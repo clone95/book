@@ -10,18 +10,18 @@ Sebbene a volte siano un pò "snobbati" dal grande pubblico in questa categoria 
 
 Dalla nascita di Ethereum sono nate tantissime altre [Blockchain alternative](layer-1-alternativi.md).
 
-Tuttavia il loro sviluppo è avvenuto in un ambiente isolato e il loro design può essere molto diverso.
+Tuttavia il loro sviluppo è avvenuto in un **ambiente isolato** e il loro design può essere molto diverso.
 
-Ciò significa che non possono comunicare in modo nativo e i token non possono muoversi liberamente tra le blockchain. Questo problema è detto "problema dell'interoperabilità".
+Ciò significa che **non possono comunicare** in modo nativo e i **token non possono muoversi** liberamente tra le blockchain. Questo problema è detto "**problema dell'interoperabilità**".
 
-Una soluzione al problema dell'interoperabilità è quello del Bridge ("ponte").
+Una **soluzione** al problema dell'interoperabilità è quello del **Bridge** ("ponte").
 
-I bridges esistono per collegare le blockchain, consentendo il trasferimento di informazioni e token tra di esse. Ad esempio consentono:
+I bridges esistono per **collegare le blockchain**, consentendo il **trasferimento** di informazioni e token tra di esse. Ad esempio consentono:
 
-* il trasferimento di beni e informazioni da una catena all'altra&#x20;
-* alle dApps di accedere ai punti di forza di diverse blockchain, migliorando così le loro capacità&#x20;
-* agli utenti possono accedere a nuove piattaforme e sfruttare i vantaggi di diverse chain&#x20;
-* agli sviluppatori di diversi ecosistemi blockchain di collaborare e costruire nuove dApps
+* il **trasferimento** di beni e informazioni da una catena all'altra&#x20;
+* alle **dApps** di accedere ai punti di forza di diverse blockchain, migliorando così le loro capacità&#x20;
+* agli **utenti** possono accedere a nuove piattaforme e sfruttare i vantaggi di diverse chain&#x20;
+* agli **sviluppatori** di diversi ecosistemi blockchain di collaborare e costruire nuove dApps
 
 Nonostante i benefici nell'immediato che portano, i bridges sono si sono dimostrati molto vulnerabili agli attacchi hacker e sono considerati una soluzione sub-ottimale per la connessione delle varia Blockchain.&#x20;
 
